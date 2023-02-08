@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jucielly
 - 👀 I’m interested in Front end ang Game Development
-- 🌱 I’m currently learning  Flutter
+- 🌱 I’m currently learning  C# and unity
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me juhsdev@gmail.com
 
