@@ -27,7 +27,7 @@
 - [notinhas api](https://github.com/jucielly/notinhas-api)
 
 
-### Chalenges
+### Challenges
 - [Customer sucess balancing with Javascript](https://github.com/jucielly/rd-javascript-challenge)
 - [Customer sucess balancing with Ruby](https://github.com/jucielly/rd-ruby-challenge)
 - [Array to object](https://github.com/jucielly/Array-to-object)
