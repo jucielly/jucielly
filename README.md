@@ -37,6 +37,7 @@
 
 ### Games
 - [Math Tower](https://github.com/pedrolzrd/Projeto-Fanatee)
+- [Maria e o lobo](https://github.com/jucielly/Maria-e-o-lobo)
 
 
 
