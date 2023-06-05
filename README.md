@@ -21,6 +21,12 @@
 - [Sakura mocha WP theme](https://github.com/jucielly/sakura-mocha-theme)
 - [Athena social network](https://github.com/jucielly/SAP004-social-network)
 
+### Original Games
+- [Math Tower](https://github.com/pedrolzrd/Projeto-Fanatee)
+- [Maria e o lobo](https://github.com/jucielly/Maria-e-o-lobo)
+
+
+
 ### Original backend projects
 - [adopt app api](https://github.com/jucielly/adopt-api)
 - [find my hero api](https://github.com/jucielly/find-my-hero-api)
@@ -33,12 +39,6 @@
 - [Array to object](https://github.com/jucielly/Array-to-object)
 - [frontend grid challenge](https://github.com/jucielly/grid-layout-test)
 - [celcius to farenheit conversor](https://github.com/jucielly/conversor)
-
-
-### Games
-- [Math Tower](https://github.com/pedrolzrd/Projeto-Fanatee)
-- [Maria e o lobo](https://github.com/jucielly/Maria-e-o-lobo)
-
 
 
 <!---
