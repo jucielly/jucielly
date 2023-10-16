@@ -40,6 +40,8 @@
 - [frontend grid challenge](https://github.com/jucielly/grid-layout-test)
 - [celcius to farenheit conversor](https://github.com/jucielly/conversor)
 
+  [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jucielly)](https://github.com/jucielly/github-readme-stats)
+
 
 <!---
 jucielly/jucielly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
